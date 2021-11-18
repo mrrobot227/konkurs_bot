@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.1.1
+Flask==2.0.1
+json
+random

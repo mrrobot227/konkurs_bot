@@ -1,0 +1,139 @@
+{
+    "Users": {
+        "2076955339": {
+            "id": 2076955339,
+            "refferals": 3,
+            "refferals_list": [
+                "1983202507",
+                "1639396373",
+                "1462967201"
+            ],
+            "ref_code": "LN441U2KCS",
+            "last_category": "profile",
+            "tickets": 9,
+            "is_wrote_refcode": 1,
+            "notification": 1
+        },
+        "1983202507": {
+            "id": 1983202507,
+            "refferals": 4,
+            "refferals_list": [
+                "2076955339",
+                "106966925",
+                "764140991",
+                "1786501978"
+            ],
+            "ref_code": "KATERINA21",
+            "last_category": "profile",
+            "tickets": 10,
+            "is_wrote_refcode": 1,
+            "notification": 1
+        },
+        "1639396373": {
+            "id": 1639396373,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "QZLBK1J2Q9",
+            "last_category": "profile",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 0
+        },
+        "954657975": {
+            "id": 954657975,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "S3QORWP41H",
+            "last_category": "profile",
+            "tickets": 1,
+            "is_wrote_refcode": 0,
+            "notification": 0
+        },
+        "1462967201": {
+            "id": 1462967201,
+            "refferals": 3,
+            "refferals_list": [
+                "2107978686",
+                "2109649495",
+                "1345218670"
+            ],
+            "ref_code": "JX0I58XRKI",
+            "last_category": "profile",
+            "tickets": 9,
+            "is_wrote_refcode": 1,
+            "notification": 1
+        },
+        "106966925": {
+            "id": 106966925,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "APWQTQN0KN",
+            "last_category": "profile",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 1
+        },
+        "764140991": {
+            "id": 764140991,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "SZG5Z79F64",
+            "last_category": "enter_refcode",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 0
+        },
+        "1786501978": {
+            "id": 1786501978,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "QZNQXACYIP",
+            "last_category": "profile",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 0
+        },
+        "2109649495": {
+            "id": 2109649495,
+            "refferals": 1,
+            "refferals_list": [
+                "2077842996"
+            ],
+            "ref_code": "M1CF34006Y",
+            "last_category": "profile",
+            "tickets": 7,
+            "is_wrote_refcode": 1,
+            "notification": 0
+        },
+        "2107978686": {
+            "id": 2107978686,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "3AVC9Q48YU",
+            "last_category": "profile",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 0
+        },
+        "2077842996": {
+            "id": 2077842996,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "LB9LPL7ERS",
+            "last_category": "profile",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 0
+        },
+        "1345218670": {
+            "id": 1345218670,
+            "refferals": 0,
+            "refferals_list": [],
+            "ref_code": "QKW7VA0Q65",
+            "last_category": "profile",
+            "tickets": 6,
+            "is_wrote_refcode": 1,
+            "notification": 1
+        }
+    }
+}
