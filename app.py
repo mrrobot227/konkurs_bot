@@ -69,4 +69,4 @@ def webhook():
 
 
 
-bot.polling(none_stop = True, timeout = 100000)
+#bot.polling(none_stop = True, timeout = 100000)
